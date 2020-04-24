@@ -12,7 +12,7 @@ export default ({ data }) => {
         <div className="container-hero-inner">
           <h1 className="hero-title">Eugene <br className="break" />Rivera</h1>
           <p className="hero-copy">Is a freelance web developer that has been working with Restoration Hardware for the past year.
-          Take a look at his work or reach out to inquite about his services.</p>
+          Take a look at his work or reach out to inquire about his services.</p>
         </div>
       </div>
       <div className="container-project-outer">

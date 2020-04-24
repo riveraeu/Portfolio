@@ -12,7 +12,7 @@ module.exports = {
         short_name: `Eugene's Portfolio`,
         start_url: `/`,
         background_color: `#dfe9fb`,
-        theme_color: `#313F47`,
+        theme_color: `#dfe9fb`,
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: `standalone`,
